@@ -1,12 +1,12 @@
 # Data_Analysis-Project
 Set of real world data analysis task completed using the Python Pandas library.
-# Setup
+## Setup
   * Install Jupyter Notebook
   * Install Pandas library
   * Install Matplotlib library
   * Download the zip file "Input_Data.zip".Then extract all of the files to the location you want to write your code.
     
-# Background Information:
+## Background Information:
 In this Project we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds or thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
 Start by cleaning the data. Tasks during this section include:
