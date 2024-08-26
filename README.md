@@ -1,3 +1,3 @@
 # Data_Analysis
 # Setup
-  ##Installing Jupyter Notebook
+  Installing Jupyter Notebook
