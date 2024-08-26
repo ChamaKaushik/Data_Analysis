@@ -1,3 +1,5 @@
 # Data_Analysis
 # Setup
-  Installing Jupyter Notebook
+  Install Jupyter Notebook
+  Install Pandas library
+  Install Matplotlib library
