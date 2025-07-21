@@ -1,4 +1,4 @@
-# Electronic Store Sales Analysis - Python Project
+# Sales Analysis - Python_Pandas_Matplotlib
 Set of real world data analysis task completed using the Python Pandas library.
 ## Setup
   * Install Jupyter Notebook
